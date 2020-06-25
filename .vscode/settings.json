@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "atomic": "c",
+        "istream": "c",
+        "list": "c",
+        "ostream": "c",
+        "streambuf": "c",
+        "stdlib.h": "c"
+    }
+}
